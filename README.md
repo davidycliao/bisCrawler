@@ -3,7 +3,7 @@
 An automation web crawling framework for retrieving for Extracting Central Bankers' Speeches from Bank for International Settlements (https://www.bis.org)
 
 <p align="center">
-  <img width="700" height="500" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/bank2.png.png" >
+  <img width="700" height="500" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/bank2.png" >
 </p>
 
 
