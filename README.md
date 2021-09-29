@@ -40,7 +40,7 @@ python bisCrawler.py
 ```
 
 
-- When **bisCrawler** is running, you will be asked which page you would like to scrape (please, type any single digit from 1 to last page). Then **bisCrawler** will automatically create a folder to restore the retrieval of parliamentary questions by individual member.  
+- When **bisCrawler** is running, you will be asked which page you would like to scrape (please, type any single digit from 1 to last page). Then **bisCrawler** will automatically generate pandas dataframe to restore the banker speeches and the urls to the textual document.  
 
 <p align="center">
   <img width="900" height="280" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/bank2.png" >
