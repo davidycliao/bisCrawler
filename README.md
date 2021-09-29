@@ -50,7 +50,7 @@ python bisCrawler.py
 
 
 ## What **bisCrawler** Scrapes
-This designed crawler automatically webscrapes  the central bankers' speeches from the ofical website, including a bunch of information with regards to each central banker, date and title and corresponding url to the textual document. 
+This designed crawler automatically webscrapes  the central bankers' speeches from the offical website, including a bunch of information with regards to each name of central banker, date and title and corresponding url to the textual document. 
 <p align="center">
   <img width="700" height="380" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech_data_frame.png" >
 </p>
