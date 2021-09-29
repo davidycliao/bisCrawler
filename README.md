@@ -3,7 +3,7 @@
 An automation web crawling framework for retrieving for Extracting Central Bankers' Speeches from Bank for International Settlements (https://www.bis.org)
 
 <p align="center">
-  <img width="700" height="500" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/bank2.png" >
+  <img width="1000" height="550" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech.png" >
 </p>
 
 
@@ -43,7 +43,7 @@ python bisCrawler.py
 - When **bisCrawler** is running, you will be asked which page you would like to scrape (please, type any single digit from 1 to last page). Then **bisCrawler** will automatically create a folder to restore the retrieval of parliamentary questions by individual member.  
 
 <p align="center">
-  <img width="700" height="500" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech.png" >
+  <img width="900" height="400" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/bank2.png" >
 </p>
 
 
@@ -52,7 +52,7 @@ python bisCrawler.py
 ## What **bisCrawler** Scrapes
 This designed crawler automatically webscrapes  the central bankers' speeches from the ofical website, including a bunch of information with regards to each central banker, date and title and corresponding url to the textual document. 
 <p align="center">
-  <img width="700" height="500" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech_data_frame.png" >
+  <img width="700" height="380" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech_data_frame.png" >
 </p>
 
 
