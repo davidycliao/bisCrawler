@@ -57,16 +57,4 @@ This designed crawler automatically webscrapes  the central bankers' speeches fr
 
 
 
-## Cite
-
-For citing this work, you can refer to the present GitHub project. For example, with BibTeX:
-```
-@misc{bisCrawler,
-    howpublished = {\url{https://github.com/davidycliao/bisCrawler}},
-    title = {An Automation Webcrawling Toolkit for Extracting Central Bankers' Speeches},
-    author = {David Yen-Chieh Liao and Li Tang},
-    publisher = {GitHub},
-    year = {2021}
-}
-```
 
