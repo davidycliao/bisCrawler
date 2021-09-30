@@ -8,7 +8,7 @@ An automation web crawling framework for retrieving for Extracting Central Banke
 
 
 
-## Instruction
+## Environment Setup
 
 - Need to install [Anaconda Navigator](https://www.anaconda.com/products/individual-b) and [Python>=3.9](https://www.python.org/downloads/release/python-3810/) beforehand. And then, open the terminal and download `bisCrawler` repository by using `git clone`.
 
@@ -25,6 +25,8 @@ cd bisCrawler
 
 # Create the enviroment by using conda and name the enviroment `bisCrawler`.
 conda create -n bisCrawler python=3.9
+
+## Instruction
 
 # Activate the pre-named enviroment. 
 conda activate bisCrawler 
@@ -56,5 +58,20 @@ This designed crawler automatically webscrapes  the central bankers' speeches fr
 </p>
 
 
+
+## Cite
+
+Please cite this page if you use this toolkit for your research.
+
+For example, with BibTeX:
+```
+@misc{bisCrawler,
+    howpublished = {\url{https://github.com/davidycliao/bisCrawler}},
+    title = {bisCrawler: An Automation Webcrawler for Extracting Central Bankers' Speeches},
+    author = {David Yen-Chieh Liao and Li Tang},
+    publisher = {GitHub},
+    year = {2021}
+}
+```
 
 
