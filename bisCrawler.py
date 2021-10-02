@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# ------------------------------------------------------------------------------------------ #
-# @author: davidycliao                                                                       #
-# @email: davidycliao@gmail.com                                                              #
-# @date: 9-May-2021                                                                          #
-# @info: An Automation Webcrawler for Extracting Central Bankers' Speeches from BIS Website  #
-# ------------------------------------------------------------------------------------------ #
+""""
+@author: davidycliao
+@email: davidycliao@gmail.com
+@date: 9-May-2021
+@info: An Automation Webcrawler for Extracting Central Bankers' Speeches from BIS Website  
+"""
 
 
 import time
