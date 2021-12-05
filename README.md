@@ -1,5 +1,7 @@
 # bisCrawler: An Automation Webcrawler for Extracting Central Bankers' Speeches 🛠️🧰
 
+[![CI](https://github.com/davidycliao/bisCrawler/actions/workflows/main.yml/badge.svg)](https://github.com/davidycliao/bisCrawler/actions/workflows/main.yml)
+
 An automation web crawling framework for retrieving for Extracting Central Bankers' Speeches on the Website of **Bank for International Settlements (https://www.bis.org)** based on Selenium and Chrome browser.
 
 <p align="center">
