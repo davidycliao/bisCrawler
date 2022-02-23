@@ -1,16 +1,16 @@
-# bisCrawler: An Automation Webcrawler for Extracting Central Bankers' Speeches 🛠️🧰
+## bisCrawler: An Automation Webcrawler for Extracting Central Bankers' Speeches 🛠️🧰
 
 [![CI](https://github.com/davidycliao/bisCrawler/actions/workflows/main.yml/badge.svg)](https://github.com/davidycliao/bisCrawler/actions/workflows/main.yml)
 
 An automation web crawling framework for retrieving for Extracting Central Bankers' Speeches on the Website of **Bank for International Settlements (https://www.bis.org)** based on Selenium and Chrome browser.
 
 <p align="center">
-  <img width="800" height="480" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech.png" >
+  <img width="640" height="480" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech.png" >
 </p>
 
 
 
-## Environment Setup
+### Environment Setup
 
 1. Need to install [Anaconda Navigator](https://www.anaconda.com/products/individual-b) and [Python>=3.9](https://www.python.org/downloads/release/python-3810/) beforehand. And then, open the terminal and download `bisCrawler` repository by using `git clone`. About how to use git and Github, please have a look at this [Tutorial for Beginners](https://www.youtube.com/watch?v=RvnM6EEwp1I). 
 
@@ -28,7 +28,7 @@ cd bisCrawler
 conda create -n bisCrawler python=3.9
 ```
 
-## Instruction
+### Instruction
 
 1. Activate the pre-named enviroment. Alternatively, the environment for bisCrawler can be opened via [Anaconda Navigator](https://www.anaconda.com/products/individual-b)
 
@@ -65,7 +65,7 @@ scraper()
 When **bisCrawler** is running, you will be asked which page you would like to scrape (please, type any single digit from 1 to last page). Then **bisCrawler** will automatically generate pandas dataframe to restore the banker speeches and the urls to the textual document.  
 
 <p align="center">
-  <img width="750" height="550" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/module.png" >
+  <img width="640" height="550" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/module.png" >
 </p>
 
 
@@ -73,22 +73,23 @@ When **bisCrawler** is running, you will be asked which page you would like to s
 
 
 
-## What **bisCrawler** Scrapes
+### What **bisCrawler** Scrapes
+
 This designed crawler automatically webscrapes  the central bankers' speeches from the offical website, including a bunch of information with regards to each name of central banker, date and title and corresponding url to the textual document. 
 
 <p align="center">
-  <img width="900" height="280" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/bank2.png" >
+  <img width="640" height="280" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/bank2.png" >
 </p>
 
 
 
-## Websraped Data
+### Websraped Data
 
 The scraped dataframe will be stored as _central_bank_speeches.csv_ in the bisCrawler folder.  
 
 
 <p align="center">
-  <img width="700" height="380" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech_data_frame.png" >
+  <img width="640" height="380" src="https://raw.githack.com/davidycliao/bisCrawler/main/images/speech_data_frame.png" >
 </p>
 
 
